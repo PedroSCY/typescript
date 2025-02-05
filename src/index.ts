@@ -1,3 +1,6 @@
-const x: number = 3
-
-console.log(x)
+import './tipos/variaveis'
+import './tipos/arrays'
+import './tipos/enums'
+import './tipos/enums_const'
+import './tipos/enums_tipo'
+import './tipos/funcoes'
