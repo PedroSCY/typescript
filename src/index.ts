@@ -10,4 +10,11 @@
 // import './tipos/uniao'
 // import './tipos/never'
 // import './tipos/null'
-import './tipos/desafio_final'
+// import './tipos/desafio_final'
+// import './POO/classe_1'
+// import './POO/classe_2'
+// import './POO/classe_3'
+// import './POO/Validador'
+// import './POO/desafio_estatico'
+import './interfaces/usuario'
+
